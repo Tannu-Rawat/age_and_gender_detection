@@ -69,17 +69,17 @@ This repository includes a script for real-time predictions using a webcam feed:
 1. **Screenshot 2024-11-20 161133.png**:  
    - **Input**: The user’s facial image.  
    - **Prediction**: Age **18**, Gender **Female** (Correct).  
-   - ![Screenshot 2024-11-20 161133](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshots/2024-11-20_161133.png)
+   - ![Screenshot 2024-11-20 161133](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshot%2024-11-20_161133.png)
 
 2. **Screenshot 2024-11-21 080512.png**:  
    - **Input**: Selena Gomez’s younger photo (age ~20–25).  
    - **Prediction**: Age **24**, Gender **Female** (Accurate).  
-   - ![Screenshot 2024-11-21 080512](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshots/2024-11-21_080512.png)
+   - ![Screenshot 2024-11-21 080512](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshots%2024-11-21_080512.png)
 
 3. **Screenshot 2024-11-21 081739.png**:  
    - **Input**: Abby’s facial image during training.  
    - **Prediction**: Almost exact, showcasing the model’s ability to generalize.  
-   - ![Screenshot 2024-11-21 081739](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshots/2024-11-21_081739.png)
+   - ![Screenshot 2024-11-21 081739](https://github.com/Tannu-Rawat/age_and_gender_detection/blob/main/Screenshots&2024-11-21_081739.png)
 
 ---
 
